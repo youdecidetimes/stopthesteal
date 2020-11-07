@@ -10,6 +10,7 @@ excerpt: A list of potentially deceased voters organized by state
 # Georgia
 
 # Nevada 
+https://thefederalist.com/2020/11/06/nevada-records-show-deceased-voter-rose-from-the-grave-to-cast-mail-in-ballot/
 
 # North Carolina
 
