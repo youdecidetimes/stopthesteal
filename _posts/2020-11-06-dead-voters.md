@@ -15,6 +15,7 @@ https://thefederalist.com/2020/11/06/nevada-records-show-deceased-voter-rose-fro
 # North Carolina
 
 # Michigan 
+https://twitter.com/crypt0e/status/1324196431645843456
 
 # Pennsylvania 
 
