@@ -8,4 +8,6 @@ excerpt: Issues with computers or voting machines that effected or potentially e
 [Losing Republican in Oakland County turns winner after error fixed](https://www.freep.com/story/news/local/michigan/oakland/2020/11/06/oakland-county-election-2020-race-results/6184186002/?utm_campaign=snd-autopilot)
 
 
+[Georgia election official: Machine glitch caused by last-minute vendor upload - POLITICO](https://www.politico.com/news/2020/11/04/georgia-election-machine-glitch-434065)
+
 
