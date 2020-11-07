@@ -196,7 +196,7 @@ Man Arrested in Luzerne county for trying to cast ballot for dead Wife
 [Man arrested for voter fraud in Luzerne County | wnep.com](https://archive.vn/kSlbz)
  
 Postal Carrier in Miami arrested and charged with stealing ballots and gift cards
-https://archive.vn/mHYrY
+[Postal carrier accused of stealing mail-in ballot in Miami - ABC News](https://archive.vn/mHYrY)
  
 Poll worker in Germantown maryland caught filling out / fixing ballots
 [Voter Fraud Caught on Camera? Poll Worker Appears to Write on Ballot | Financial Survival Network](https://archive.vn/NnXR1)
