@@ -8,19 +8,19 @@ excerpt: Analysis of voting stats based on Benford's Law
 There is some controversy over whether of not this law works for elections. However, it does show interesting results for 2020 voting data
 
 ### Fulton County, GA:
-![Fulton County](/images/fulton.png)
+![Fulton County](/stopthesteal/images/fulton.png)
 
 ### Miami-Dade, FL
-![Miami-Dade](/images/miami_dade.png)
+![Miami-Dade](/stopthesteal/images/miami_dade.png)
 
 ### Milwaukee, WI
-![Milwaukee](/images/milwaukee.png)
+![Milwaukee](/stopthesteal/images/milwaukee.png)
 
 ### Chicago, IL
-![Chicago](/images/chicago.png)
+![Chicago](/stopthesteal/images/chicago.png)
 
 ### Allegheny, PA
-![Allegheny](/images/allegheny.png)
+![Allegheny](/stopthesteal/images/allegheny.png)
 
 # Github Analysis 
 [GitHub - youdecidetimes/2020_benfords](https://github.com/youdecidetimes/2020_benfords)
