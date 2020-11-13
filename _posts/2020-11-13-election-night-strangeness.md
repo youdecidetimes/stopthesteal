@@ -1,15 +1,8 @@
 ---
 layout: post
-title:  Computer "Glitches"
+title:  Dominion Voting
 categories: [Fraud,Irregularities,Computers]
-excerpt: Issues with computers or voting machines that effected or potentially effected election outcomes
+excerpt: Bugs and Irregularities with Dominion Voting Systems
 ---
  
-[Losing Republican in Oakland County turns winner after error fixed](https://www.freep.com/story/news/local/michigan/oakland/2020/11/06/oakland-county-election-2020-race-results/6184186002/?utm_campaign=snd-autopilot)
-
-
-[Georgia election official: Machine glitch caused by last-minute vendor upload - POLITICO](https://www.politico.com/news/2020/11/04/georgia-election-machine-glitch-434065)
-
-
-
-[Some Fulton County ballots being re-processed after scanning, reporting issue discovered](https://www.wsbtv.com/news/politics/issue-reported-with-election-reporting-work-fulton-county/W5OF32LWFRFFXGOHQ365UVQAOA/)
+[Pro-Biden Bug Also Suspected in Georgia's Vote-Counting Software | RealClearInvestigations](https://www.realclearinvestigations.com/articles/2020/11/13/pro-biden_bug_also_suspected_in_georgias_vote-counting_software__125995.html)
