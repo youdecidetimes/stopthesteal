@@ -5,7 +5,6 @@ title: Raw Data
 ---
 This is a collection of data files and PDFs related to any potential voting issues/fraud. 
 
-
 ## Dominion
 [Dominion_Democracy_Suite_Final_Report_020119.pdf](../raw_data/dominion/Dominion_Democracy_Suite_Final_Report_020119.pdf)
 

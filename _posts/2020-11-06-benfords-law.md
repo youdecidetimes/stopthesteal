@@ -28,6 +28,7 @@ There is some controversy over whether of not this law works for elections. Howe
 
 # About Benford's Law
 
+[Benford's Law Venezuela vs 2004 US election](../raw_data/benford_venezuela.pdf)
 The Washington Post felt that Benford's law showed signs of a rigged election in Russia.
 [When the Russians fake their election results, they may be giving us the statistical finger - The Washington Post](http://archive.vn/VDNc4)
 
