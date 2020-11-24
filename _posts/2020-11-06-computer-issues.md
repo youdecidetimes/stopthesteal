@@ -13,3 +13,6 @@ excerpt: Issues with computers or voting machines that effected or potentially e
 
 
 [Some Fulton County ballots being re-processed after scanning, reporting issue discovered](https://www.wsbtv.com/news/politics/issue-reported-with-election-reporting-work-fulton-county/W5OF32LWFRFFXGOHQ365UVQAOA/)
+
+
+[Officials: Clerk error behind county results favoring Biden](https://apnews.com/article/joe-biden-donald-trump-technology-voting-michigan-6beeef230376e75252d6eaa91db3f88f)

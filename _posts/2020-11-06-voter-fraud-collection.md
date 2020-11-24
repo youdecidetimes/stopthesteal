@@ -5,7 +5,12 @@ categories: Fraud
 excerpt: List of Potential Instances of Fraud
 ---
  
+
 I have not gone through this list yet but will be working towards confirming/denying as much as possible. Ideally these should all be organized into category pages
+
+
+[A dozen compelling allegations of voting irregularities in 2020 election | Just The News](https://justthenews.com/politics-policy/elections/dozen-compelling-pieces-evidence-voting-irregularities-2020-election?utm_medium=social_media&utm_source=twitter_social_icon&utm_campaign=social_icons)
+
 
 Original list from: [VOTER FRAUD EVIDENCE - 59945faa](https://controlc.com/59945faa)
 
