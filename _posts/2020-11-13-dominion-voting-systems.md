@@ -7,6 +7,8 @@ excerpt: Bugs and Irregularities with Dominion Voting Systems
 
 
 # Dominion Rep in Floyd Country
+[Thread by @TalkMullins on Thread Reader App – Thread Reader App](https://threadreaderapp.com/thread/1332909677219344384.html)
+
 [Why Floyd County had to wait so long for Election Day results](https://archive.vn/qrlgJ)
 
 [Atl Official photographer for Senator Kamala Harris as she runs for President in 2020!](https://archive.vn/zRRYN)
