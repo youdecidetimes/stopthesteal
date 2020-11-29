@@ -5,7 +5,26 @@ categories: [Fraud,Irregularities,Computers]
 excerpt: Bugs and Irregularities with Dominion Voting Systems
 ---
 
-Dominion's claims about the 2020 election
+
+# Dominion Rep in Floyd Country
+[Why Floyd County had to wait so long for Election Day results](https://archive.vn/qrlgJ)
+
+[Atl Official photographer for Senator Kamala Harris as she runs for President in 2020!](https://archive.vn/zRRYN)
+
+
+![Aric Thompson Photo 1](../images/aric_thompson_pic1.jpg)
+
+[Why Floyd County had to wait so long for Election Day results](https://www.northwestgeorgianews.com/rome/news/local/why-floyd-county-had-to-wait-so-long-for-election-day-results/article_2a977cf2-1eb4-11eb-bbd0-97326e236096.html)
+
+[Why Floyd County had to wait so long for Election Day results - PDF](../images/AricFloydCounty.pdf)
+
+
+![Aric Thompson Photo 2](../images/aric_thompson_pic2.jpg)
+[Runoff in sheriff's race, Penson and Richardson hold onto posts of clerk and chief magistrate](https://www.northwestgeorgianews.com/rome/news/local/elections-officials-still-counting-absentee-ballots/article_9f5cef2c-ab64-11ea-9e89-2bb34caefffc.html)
+
+[Runoff in sheriff's race, Penson and Richardson hold onto posts of clerk and chief magistrate - PDF](../images/AricAbsenteeRunoff.pdf)
+
+# Dominion's claims about the 2020 election
 
 [Election 2020: Setting the Record Straight - Dominion Voting Systems](https://www.dominionvoting.com/)
 
